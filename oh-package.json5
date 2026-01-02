@@ -1,0 +1,10 @@
+{
+  "modelVersion": "5.1.0",
+  "description": "Please describe the basic information.",
+  "dependencies": {
+    "@ohos/lottie": "^2.0.25"
+  },
+  "devDependencies": {
+  },
+  "dynamicDependencies": {}
+}
