@@ -9,7 +9,6 @@ The application features a swim-focused interface and is specifically optimized 
 
 <div>
   <img src="screenshots/ss1.png" width="24%">
-  <img src="screenshots/ss2.png" width="24%">
 </div>
 
 # Use Cases
@@ -60,4 +59,5 @@ The application features a swim-focused interface and is specifically optimized 
 # LICENSE
 
 Location Based Secure Vault is distributed under the terms of the MIT License.
+
 See the [LICENSE](./LICENSE) for more information.
