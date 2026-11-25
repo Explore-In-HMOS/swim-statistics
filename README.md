@@ -2,7 +2,7 @@
 
 # SwimStatistics
 
-Swim Tracker Wear is a HarmonyOS NEXT application that allows users to track their swimming workouts directly from their smartwatches. The app uses Wearable @ohos.sensor and @ohos.resourceschedule.backgroundTaskManage technologies to detect metrics such as distance, lap count, pace, and calories during swimming sessions. Users can access their training history directly on their watch.
+Swim Tracker Wear is a HarmonyOS application that allows users to track their swimming workouts directly from their smartwatches. The app uses Wearable @ohos.sensor and @ohos.resourceschedule.backgroundTaskManage technologies to detect metrics such as distance, lap count, pace, and calories during swimming sessions. Users can access their training history directly on their watch.
 
 The application features a swim-focused interface and is specifically optimized for HarmonyOS-powered smartwatches. Touch interactions are minimized during pool activity to ensure an uninterrupted training experience.
 # Preview
@@ -22,7 +22,7 @@ The application features a swim-focused interface and is specifically optimized 
 
 - **Language**: ArkTS (Ark TypeScript)
 - **UI Framework**: ArkUI Declarative Framework
-- **OS**: HarmonyOS NEXT (API 18)
+- **OS**: HarmonyOS (API 18)
 - **Libraries**:
     - `@kit.AccelerometerSensor`
     - `@kit.BackgroundTaskManager`
@@ -53,7 +53,7 @@ The application features a swim-focused interface and is specifically optimized 
 
 ## Supported Device
 
-- HarmonyOS NEXT Devices (Smartphones or Tablets)
+- HarmonyOS Devices (Smartphones or Tablets)
 - API Level 18 and above
 
 # LICENSE
